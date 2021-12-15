@@ -1,4 +1,3 @@
-Video del proyecto:https://drive.google.com/file/d/15m-yQf0bMIQ0EyG0mBZ5zFMsMkslw3qt/view?usp=sharing
 
 # HandsTracker
 # Librerias 
